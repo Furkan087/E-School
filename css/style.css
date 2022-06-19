@@ -1,0 +1,104 @@
+/*common start*/
+body{
+	font-family: poppins;
+}
+/*common end*/
+
+/*header start*/
+.header{
+	background-color: #F0FFF0;
+}
+.c_nav{}
+.logo{
+	width: 198px;
+	height: 59px;
+}
+.menu{}
+.menu ul li a{
+	margin-right: 29px;
+	color: black;
+}
+.menu ul li a:hover{
+}
+.c_bts{
+align-items: center;
+gap: 10px;
+width: 110px;
+height: 35px;
+background: #21B573;
+border-radius: 33px;
+border-color: white
+}
+/*header end*/
+
+/*banner start*/
+.banner{
+	background-color: #F0FFF0;
+}
+.b_text{
+	margin-top: 100px;
+}
+.b_text h5{
+	color: #FD511A;
+}
+.b_text h1{
+	margin: 20px 0px;
+}
+.b_1{
+	margin: 20px 0px;
+}
+.b_text h1 span{
+	color: #21B573;
+}
+.b_bts{
+	align-items: center;
+	gap: 10px;
+	width: 110px;
+	height: 45px;
+	background: #21B573;
+	border-radius: 25px;
+	border: 1px solid black;
+}
+.b_img{}
+/*banner end*/
+
+/*books start*/
+.books{
+	margin-top: 100px;
+}
+.b_bks{
+	background-color: #F8FFFB;
+}
+.b_bks h4{
+	margin-top: 20px;
+}
+/*books end*/
+
+/*course start*/
+.course{
+	margin-top: 80px;
+	background-color: #F0FFF0;
+}
+
+/*course end*/
+/*testimonial stat*/
+.test_txt_p{
+	padding-left: 70px !important;
+}
+
+/*testimonial end*/
+
+/*footer start*/
+.footer{
+
+	background-color: #282531;;
+}
+.ftr_1{
+	margin-top: 40px;
+	color: white;
+}
+.ftr_1 p a{
+	text-decoration: none;
+	color: white;
+}
+/*footer end*/

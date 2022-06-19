@@ -1,0 +1,32 @@
+notes.....
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Varius blandit facilisis quam netus.
+E-School---
+
+There are many variations of passages of Lorem Ipsum available, but the
+ majority have suffered alteration in some form, by injected humour, 
+or randomised words which don't look even slightly believable.
+
+Font-Family---
+
+Color---
+bg #F0FFF0
+grn #21B573
+orange #FD511A;
+bg_footer: #282531;
+
+header---
+
+layout---
+555/346
+
+background: #F8FFFB;
+border-radius: 10px;
+section---
+
+semantic---
+code comment---
+reuse---
+code.rep..avoid---
+  
